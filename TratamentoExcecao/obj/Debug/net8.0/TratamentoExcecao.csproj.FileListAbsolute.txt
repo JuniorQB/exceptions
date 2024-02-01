@@ -1,0 +1,14 @@
+C:\Users\Junior\CSharp\TratamentoExcecao\TratamentoExcecao\bin\Debug\net8.0\TratamentoExcecao.exe
+C:\Users\Junior\CSharp\TratamentoExcecao\TratamentoExcecao\bin\Debug\net8.0\TratamentoExcecao.deps.json
+C:\Users\Junior\CSharp\TratamentoExcecao\TratamentoExcecao\bin\Debug\net8.0\TratamentoExcecao.runtimeconfig.json
+C:\Users\Junior\CSharp\TratamentoExcecao\TratamentoExcecao\bin\Debug\net8.0\TratamentoExcecao.dll
+C:\Users\Junior\CSharp\TratamentoExcecao\TratamentoExcecao\bin\Debug\net8.0\TratamentoExcecao.pdb
+C:\Users\Junior\CSharp\TratamentoExcecao\TratamentoExcecao\obj\Debug\net8.0\TratamentoExcecao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Junior\CSharp\TratamentoExcecao\TratamentoExcecao\obj\Debug\net8.0\TratamentoExcecao.AssemblyInfoInputs.cache
+C:\Users\Junior\CSharp\TratamentoExcecao\TratamentoExcecao\obj\Debug\net8.0\TratamentoExcecao.AssemblyInfo.cs
+C:\Users\Junior\CSharp\TratamentoExcecao\TratamentoExcecao\obj\Debug\net8.0\TratamentoExcecao.csproj.CoreCompileInputs.cache
+C:\Users\Junior\CSharp\TratamentoExcecao\TratamentoExcecao\obj\Debug\net8.0\TratamentoExcecao.dll
+C:\Users\Junior\CSharp\TratamentoExcecao\TratamentoExcecao\obj\Debug\net8.0\refint\TratamentoExcecao.dll
+C:\Users\Junior\CSharp\TratamentoExcecao\TratamentoExcecao\obj\Debug\net8.0\TratamentoExcecao.pdb
+C:\Users\Junior\CSharp\TratamentoExcecao\TratamentoExcecao\obj\Debug\net8.0\TratamentoExcecao.genruntimeconfig.cache
+C:\Users\Junior\CSharp\TratamentoExcecao\TratamentoExcecao\obj\Debug\net8.0\ref\TratamentoExcecao.dll
